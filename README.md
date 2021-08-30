@@ -9,7 +9,7 @@ I grew up in Sacramento, CA and came up to Tacoma, WA for college and stayed for
 * 🍞 [Bread CMS](https://github.com/breadsystems/bread-cms), a content management system and library built on top of [Datahike](https://github.com/replikativ/datahike). **Clojure**
 * 🌺 [Lei](https://lei.tamayo.xyz/), a library for building visual design systems in [Garden](https://github.com/noprompt/garden). **Clojure**
 
-## Recent projects (at SiteCrafting)
+## Recent projects ([SiteCrafting](https://www.sitecrafting.com/))
 
 * 🏥 [MultiCare](https://www.multicare.org/) - several data integrations, three distinct search tools, special location features. **PHP, JavaScript, React**
 * 🏞️ [Metro Parks Tacoma](https://www.metroparkstacoma.org/) - four search tools, integration with a legacy API, implementing a custom design system. **PHP, JavaScript, ClojureScript**
