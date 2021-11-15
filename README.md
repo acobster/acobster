@@ -13,6 +13,7 @@ I grew up in Sacramento, CA and came up to Tacoma, WA for college and stayed for
 
 * 🏥 [MultiCare](https://www.multicare.org/) - several data integrations, three distinct search tools, special location features. **PHP, JavaScript, React**
 * 🏞️ [Metro Parks Tacoma](https://www.metroparkstacoma.org/) - four search tools, integration with a legacy API, implementing a custom design system. **PHP, JavaScript, ClojureScript, Reagent/React**
+* 📜 [Mapbox Places UI](https://gitub.com/sitecrafting/mapbox-places-ui) - Google Places-style find-as-you-type component for Mapbox **React, JavaScript**
 * 📜 [Washington State Historical Society](https://www.washingtonhistory.org/) - search integration with a legacy API, [shareable lists](https://www.washingtonhistory.org/research/shared-list/?irn%5B0%5D=142990&irn%5B1%5D=113342) of collection items, pulling live Google Business hours. **PHP, JavaScript**
 * 🌳 [Timber](https://timber.github.io/docs/v2) - library for making WordPress development more MVC-like. **PHP**
 * 🌲 [Conifer](https://www.coniferplug.in/) - an opinionated OO library for building common website features with Timber. **PHP, JavaScript**
