@@ -1,6 +1,6 @@
 # Hi, I'm Coby! 🤘
 
-I grew up in Sacramento, CA and came up to Tacoma, WA for college and stayed for the beautiful people and summers. I graduated with a BS in Computer Science from the University of Puget Sound in 2011. Clojure/Script, Python, functional programming, Datalog. #reparations #landback
+I grew up in Sacramento, CA and came up to Tacoma, WA for college and stayed for the beautiful people and summers. I graduated with a BS in Computer Science from the University of Puget Sound in 2011. Currently into Clojure/Script, Python, functional programming, REPL-driven development, Datalog. #reparations #landback
 
 ## 🤓 Current projects (Recurse Center/personal)
 
